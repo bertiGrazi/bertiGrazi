@@ -3,6 +3,7 @@
 ## 👋 Hello! Welcome to my Github profile.
 
 📌 Living in São Paulo, Brazil
+<br>
 💼 Currenty working with iOS Development at IBM
 <div>
 <br><br>
