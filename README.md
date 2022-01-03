@@ -6,7 +6,7 @@
 <br>
 💼 Currenty working with iOS Development at IBM
 <div>
-<br><br>
+<br>
 <a align="center" href = "mailto:contato@limaberti.grazi@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a align="center" href="https://www.linkedin.com/in/graziellilimaberti/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
